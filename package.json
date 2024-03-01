@@ -1,0 +1,22 @@
+{
+  "name": "python-image-processing-script",
+  "version": "1.0.0",
+  "description": "This Python script utilizes the Python Imaging Library (PIL) to perform image processing tasks. In this example, the script converts a color image to grayscale. Customize the script to apply various image processing techniques such as resizing, cropping, and filtering.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiuii/Python-Image-Processing-Script"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "numpy": "^1.21.3",
+    "opencv-python": "^4.5.4.60",
+    "matplotlib": "^3.4.3",
+    "ruby-task-scheduler": "^1.0.0"
+  }
+}
